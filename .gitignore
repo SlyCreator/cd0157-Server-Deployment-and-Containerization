@@ -34,3 +34,8 @@ htmlcov/
 .direnv
 
 .github/**
+
+# Pipeline configuration files with secrets
+pipeline.json
+updated-pipeline*.json
+*.secret
